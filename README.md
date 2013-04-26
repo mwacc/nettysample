@@ -1,4 +1,4 @@
 netty-sample
 ============
 
-Netty usage example for my blog http://simpletoad.blogspot.com
+Netty usage example w/ custom binary serialisation and covered by unit tests:)
